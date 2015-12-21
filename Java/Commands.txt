@@ -1,0 +1,15 @@
+#Projekt aus GitHub auf Computer holen:
+git clone https://github.com/lukaskalna/lukaskalna.github.io.git
+
+
+
+
+#Dateien hinzufügen
+git add .
+
+#Dateien commiten
+git commit -m "Naricht"
+
+#Dateien auf GitHub hochladen
+git push
+
